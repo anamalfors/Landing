@@ -59,9 +59,10 @@ body{
 .card{
 	border: 3px solid #f6cbd2;
 	padding: 30px;
-	margin: 0px;
+	margin-left: 25px;
   margin-top:60px;
   margin-bottom: 60px;
+  margin-right:25px;
 	text-align: center;
   background-color:#FFFFFF;
   color:black;
@@ -75,12 +76,13 @@ body{
 }
 
 
-
 #footer {
   background-color:#F2F2F2;
   padding: 10px;
   margin-top: 25px;
+  width:cover;
 }
+
 
 #footer a {
 color:pink;
@@ -137,19 +139,18 @@ font-size: 20px;
 }
 
 #formbanner {
-padding-top: 5px;
+padding-top: 30px;
 }
 
 
 #cutline {
   background-color: #F2F2F2;
   margin-top: 10px;
-  margin-right: 25px;
-  margin-left: 20px;
+  margin-right: 44px;
+  margin-left: 44px;
   line-height: 5px;
 }
 
-
-#pinkpage{
-color: #FFFFFF;
+.container {
+    width: 100%;
 }
