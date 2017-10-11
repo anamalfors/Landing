@@ -64,13 +64,16 @@ body{
   margin-bottom: 60px;
 	text-align: center;
   background-color:#FFFFFF;
+  color:black;
+  padding-top:15px;
 }
 
-
-.card {
-color:black;
-padding-top:15px;
+.line {
+  text-align:center;
+  margin-top: -50px;
+  margin-bottom: 50px;
 }
+
 
 
 #footer {
@@ -98,11 +101,6 @@ font-size: 20px;
 }
 
 
-.line {
-  text-align:center;
-  margin-top: -50px;
-  margin-bottom: 50px;
-}
 
 
 .btn-primary {
@@ -135,4 +133,9 @@ font-size: 20px;
     border: 1px solid transparent;
     border-radius: 0px;
 }
+
+#formbanner {
+padding-top: 25px;
+}
+
 
