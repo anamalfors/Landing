@@ -156,6 +156,7 @@ padding-top: 30px;
 }
 
 #pinkpage {
-  padding-left: 10px;
+  padding-left: 60px;
   margin-right: 0px;
+  border-left: 3px solid #F2F2F2;
 }
