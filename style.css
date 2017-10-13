@@ -146,9 +146,9 @@ padding-top: 30px;
 #cutline {
   background-color: #F2F2F2;
   margin-top: 10px;
-  margin-right: 44px;
-  margin-left: 44px;
-  padding: 15px;
+  padding-top: 25px;
+  padding-bottom:25px;
+  width: 100%;
 }
 
 #cutline h2 {
