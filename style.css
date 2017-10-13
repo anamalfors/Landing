@@ -151,6 +151,15 @@ padding-top: 30px;
   padding: 15px;
 }
 
+#cutline h2 {
+  color: #F25F90;
+  font-family: "Roboto";
+}
+
+#cutline p {
+  font-weight:lighter;
+}
+
 .form-control {
     display: block;
     width: 100%;
